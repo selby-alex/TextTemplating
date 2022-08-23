@@ -34,7 +34,7 @@ templated_cartesian_product(text)
 ```
 
 ```bash
-$ python text_template.py
+$ python handler.py
 My name is Huh?
 My name is What?
 My name is Chika-chika
